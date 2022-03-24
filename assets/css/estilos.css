@@ -118,8 +118,12 @@ body {
   background-color: #2C343A;
 }
 
-.cartao-conteudo {
-  padding: 1.2rem;
+.cartao__conteudo {
+  padding: 16px;
+}
+
+.cartao__titulo {
+  font-size: 1.2rem;
   font-weight: 700;
 }
 
